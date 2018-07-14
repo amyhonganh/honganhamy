@@ -545,22 +545,6 @@
         "order": 1
       },
       "components": []
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Page 2",
-        "order": 3
-      },
-      "components": []
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Page 3",
-        "order": 2
-      },
-      "components": []
     }
   }
 }
