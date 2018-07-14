@@ -1779,3 +1779,18 @@ body {
     width: 100% !important;
   }
 }
+@media (min-width: 992px) {
+  .cid-qXMZDnXJiS .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qXMZDnXJiS .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qXMZDnXJiS .mbr-text {
+    text-align: center;
+  }
+}
